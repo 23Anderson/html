@@ -1,0 +1,61 @@
+body div {
+    width: 40px;
+    height: 40px;
+    text-align: center;
+}
+
+#primeiro {
+    background-color: cornflowerblue;
+    float: left;
+    width: 100%;
+}
+
+#segundo {
+    background-color: crimson;
+    clear: left;
+    float: left;
+    width: 80%;
+}
+
+#terceiro {
+    background-color: darkgoldenrod;
+    float: right;
+    width: 20%;
+}
+
+#quarto {
+    background-color: darkslateblue;
+    float: left;
+    clear: left;
+    width: 80%;
+}
+
+#quinto {   
+    background-color: gray;
+    float: right;
+    width: 20%;
+}
+
+#sexto {   
+    background-color: olivedrab;
+    clear: right;
+    float: right;
+    width: 20%;
+}
+
+#setimo {   
+    background-color: palevioletred;
+    float: left;
+    width: 80%;
+}
+
+#oitavo {   
+    background-color: steelblue;
+    clear: both;
+    float: right;
+    width: 100%;
+}
+
+#container {
+    width: 60%;
+}
